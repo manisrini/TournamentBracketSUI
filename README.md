@@ -119,6 +119,6 @@ Round 4 matchup count - 1
             Matchup(id: 123, team1: Team(id: 25, name: "england", image: UIImage(named: "England",in: .module,compatibleWith: nil), points: 2), team2: Team(id: 26, name: "netherland", image: UIImage(named: "Netherland",in: .module,compatibleWith: nil), points: 3)),
         ])
     ]
-    ),showTabSwitch: true,theme: TournamentBracketTheme(fontColor: "232321",font: .NerkoOne(.Regular, 18))))
+    ),showTabSwitch: true,theme: TournamentBracketTheme(fontColor: "232321",font: .Roboto(.Regular, 18))))
  ```
 
