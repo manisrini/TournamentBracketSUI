@@ -1,4 +1,4 @@
-Are you searching for a package to show your matchups in a heirarchical way?. Then you have landed in the right place.
+Are you searching for a package to show your matchups in a heirarchical way 👀?. Then you have landed in the right place 👨‍🏭👏.
 
 <div align="center">
   <img src="BracketImage.jpg" width="500" height="250" >
@@ -8,9 +8,9 @@ Are you searching for a package to show your matchups in a heirarchical way?. Th
 It is a package to show the matchups in a beautiful bracket view. Developed fully using SwiftUI framework.
 
 # Why TournamentBracketView?
-* Highly customisable
-* Tab support to switch
-* Regular updates
+* Highly customisable 🚀.
+* Tab support to switch 🎚️.
+* Regular updates 📱.
 
 # Xcode Package Dependency:
 
