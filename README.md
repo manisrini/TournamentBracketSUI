@@ -72,7 +72,7 @@ Used to customise the font family and size.
 
 ## Example:
 
-Below is a sample example to show matchups from Round of 16. The matchups array count must be in a decreasing order (power of 2) for each successive rounds to generate the bracket view perfectly.
+Below is a sample example to show matchups from Round of 16. The matchups array count must be in a decreasing order (power of 2) for each successive rounds to generate a perfect bracket view.
 
 For example ,
 Round 1 matchup count - 8
