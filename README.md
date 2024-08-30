@@ -122,3 +122,8 @@ Round 4 matchup count - 1
     ),showTabSwitch: true,theme: TournamentBracketTheme(fontColor: "232321",font: .Roboto(.Regular, 18))))
  ```
 
+## Demo 
+
+https://github.com/user-attachments/assets/a5860393-c85b-4021-a1a9-0cd2161bdafe
+
+
