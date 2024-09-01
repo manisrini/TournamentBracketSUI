@@ -7,7 +7,7 @@ Are you searching for a package to show your matchups in a heirarchical way 👀
 # TournamentBracketView 🚀
 It is a package to show the matchups in a beautiful bracket view. Developed fully using SwiftUI framework.
 
-# Why TournamentBracketView?
+# Why this package?
 * Highly customisable 🚀.
 * Tab support to switch 🎚️.
 * Regular updates 📱.
